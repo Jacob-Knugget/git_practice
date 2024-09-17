@@ -13,3 +13,5 @@ By Jacob Anderson
 
 (P3) My favorite food is sushi.
 
+(P1) My favorite food is that dandy looking cow.
+
