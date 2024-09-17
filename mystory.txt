@@ -11,4 +11,9 @@ By Jacob Anderson
 
 (P2) My favorite food are bacon cheeseburgers.
 
+<<<<<<< HEAD
 (P3) My favorite food is sushi.
+=======
+(P2) My favorite food are bacon cheeseburgers.
+
+>>>>>>> 3ccccb4686aba2176803bf5f87a2e67c578ccfa7
