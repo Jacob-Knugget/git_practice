@@ -7,6 +7,8 @@ By Jacob Anderson
 
 (P3) I was born to a sleepy fox. I would like to sleep on the snow.
 
+(P4) I would make snow angels in the snow
+
 (P1) My favorite food is that dandy looking cow.
 
 (P2) My favorite food are bacon cheeseburgers.
